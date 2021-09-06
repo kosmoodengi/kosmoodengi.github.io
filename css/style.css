@@ -1,0 +1,153 @@
+body {
+	background-color: #121212;
+	font-family: 'Russo One', sans-serif;
+	-webkit-tap-highlight-color: transparent;
+}
+
+.name_site {
+	color: white;
+	font-size: 45px;
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.menu {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#href {
+	color: black;
+	font-size: 18px;
+	border-radius: 10px;
+	text-decoration: none;
+	background-color: greenyellow;
+	padding: 10px;
+}
+
+
+#mimg {
+	width: 250px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.bas {
+	color: white;
+	font-size: 25px;
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+	border: 3px solid white;
+	padding: 2px;
+	border-radius: 100px;
+}
+
+.table {
+	width: 500px;
+	margin: 0 auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#butt_priz {
+	width: 80px;
+	border-radius: 20px;
+	border: 5px solid white;
+    margin-top: 10px;
+}
+
+.vashpriz {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#prizimg {
+	width: 100px;
+	border-radius: 10px;
+	box-shadow: 0 0 15px black;
+}
+
+.ha5 {
+	color: black;
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: greenyellow;
+	width: 110px;
+	margin: 0 auto;
+}
+
+.b_give {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#pol {
+	color: black;
+	font-size: 25px;
+	background-color: greenyellow;
+	padding: 5px;
+	border-radius:40px;
+	text-decoration: none;
+}
+
+.Pfwwa {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+@media screen and (max-width: 480px) {
+	.name_site {
+		width: 350px;
+	}
+
+	.menu {
+		width: 350px;
+	}
+
+	#href {
+		font-size: 22px;
+	}
+
+	.bas {
+		width: 350px;
+		font-size: 35px;
+		border: 5px solid white;
+	}
+
+	.table {
+		width: 400px;
+	}
+
+	#butt_priz {
+		width: 80px;
+	}
+
+	.vashpriz {
+		font-size: 30px;
+	}
+
+	.ha5 {
+		font-size: 25px;
+		width: 150px;
+	}
+
+	#prizimg {
+		width: 150px;
+	}
+
+	.b_give {
+		width: 300px;
+	}
+}
